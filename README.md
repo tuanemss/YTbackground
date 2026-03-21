@@ -27,10 +27,10 @@ A tweak that enables background audio playback for YouTube on iOS 6.
 ## Installation
 
 ### Via Cydia
+1. Install ipa from veteris ( repo : yzu.moe/dev )
 1. Add the repo : tuanemss.github.io/repo
-2. install ipa_patched : [here](https://www.mediafire.com/file/cniborr12jqvvdg/YouTube_1.3.0_Patched.ipa/file)
-3. Search for **YTBackground**
-4. Install and respring
+2. Search for **YTBackground**
+3. Install and respring
 
 ### Manual (.deb)
 ```bash
@@ -82,6 +82,7 @@ YouTube 1.x on iOS 6 pauses audio when the app enters the background. This tweak
 ### v1.1
 - Fixed keyboard conflict (Vietnamese input now works correctly)
 - Fixed `NSBundle` hook scoped to main bundle only
+- fix info.plist from tweak , no need ipa patched
 - Improved stability
 
 ### v1.0
