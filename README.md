@@ -28,8 +28,9 @@ A tweak that enables background audio playback for YouTube on iOS 6.
 
 ### Via Cydia
 1. Add the repo : tuanemss.github.io/repo
-2. Search for **YTBackground**
-3. Install and respring
+2. install ipa_patched : [here](https://www.mediafire.com/file/cniborr12jqvvdg/YouTube_1.3.0_Patched.ipa/file)
+3. Search for **YTBackground**
+4. Install and respring
 
 ### Manual (.deb)
 ```bash
