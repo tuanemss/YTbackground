@@ -27,10 +27,11 @@ A tweak that enables background audio playback for YouTube on iOS 6.
 ## Installation
 
 ### Via Cydia
-1. Install ipa from veteris ( repo : yzu.moe/dev ) and tuberplacer (repo: cydia.preloading.dev)
-1. Add the repo : tuanemss.github.io/repo
-2. Search for **YTBackground**
-3. Install and respring
+1. open safari add cert : chillboi20.github.io
+2. Install ipa from veteris ( repo : yzu.moe/dev ) and tuberplacer (repo: cydia.preloading.dev)
+3. Add the repo : tuanemss.github.io/repo
+4. Search for **YTBackground**
+5. Install and respring
 
 ### Manual (.deb)
 ```bash
