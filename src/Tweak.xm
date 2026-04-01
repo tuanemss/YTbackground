@@ -13,8 +13,8 @@ static OSStatus replaced_AudioSessionSetActive(Boolean active) {
     return orig_AudioSessionSetActive(active);
 }
 
-// NSBundle hook removed – YouTube 1.1.0 already has UIBackgroundModes=audio in Info.plist
-// Info.plist is patched at runtime via ctor if missing
+
+// Info.plist is patched at runtime via ctor if missing ( 1.0.0 - 1.4.0 )
 
 // ================ iPad hooks ================
 %hook YTPlayerScreenController
