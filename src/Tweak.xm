@@ -179,7 +179,7 @@ static void handleEnterBackground(CFNotificationCenterRef center, void *observer
         NULL, CFNotificationSuspensionBehaviorDeliverImmediately
     );
 
-    // Welcome alert – shown once per install (auto-reset khi cài lại IPA)
+    // Welcome alert
     NSString *flagFile = [[[NSBundle mainBundle] bundlePath]
                           stringByAppendingPathComponent:@".ytbg_installed"];
     if (![[NSFileManager defaultManager] fileExistsAtPath:flagFile]) {
