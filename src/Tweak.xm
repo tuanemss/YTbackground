@@ -195,7 +195,7 @@ static void handleEnterBackground(CFNotificationCenterRef center, void *observer
             cancelButtonTitle:@"OK"
             otherButtonTitles:nil];
             [alert show];
-#pragma clang diagnostic pop
+#pragma clang diagnostic pop //Should keep this, or do it your way
         });
     }
 }
