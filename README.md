@@ -19,7 +19,7 @@ A tweak that enables background audio playback for YouTube on iOS 6.
 | Device | iPhone / iPod Touch / iPad (armv7) |
 | iOS | 6.0 – 6.1.6 |
 | Jailbreak | Any (Cydia / MobileSubstrate required) |
-| YouTube | 1.0.0 – 1.3.0 |
+| YouTube | 1.0.0 – 1.4.0 |
 | MobileSubstrate | 0.9.6+ |
 
 ---
